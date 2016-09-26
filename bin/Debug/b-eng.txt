@@ -1,0 +1,54 @@
+[20160916]betaver 
+CODE    
+UP/DW£ºSELECT 
+¡ð£ºOK 
+¡÷£ºADD
+LF/RG£º Cusole
+¡Á back
+¡õ£ºSUB
+CHEAT 
+SAVEexpo
+SAVEimpo
+ON  
+thk 
+RAMDUMP 
+CODE    
+SEARCH  
+back
+TARG VAL
+BITLEN  
+START   
+RESTART 
+CODEchag
+validate
+CODESAVE
+NO RESULET !
+SEARCH
+??????£¡
+FILESAVE  £º
+SEARCH RAM          
+PLEASE WAITE
+fetch ram           
+PLEASE WAITE
+fix data            
+PLASE WAITE
+save code           
+PLEASE WAITE
+enable code         
+PLASE WAITE
+savedata export     
+PLEASE WAITE
+savedata import     
+PLEASE WAITE
+VITA Cheat RAM Editoer zCheatV1.00 
+
+
+
+
+
+
+
+
+
+dnate litst                   
+yourname                 
