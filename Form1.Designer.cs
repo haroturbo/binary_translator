@@ -152,13 +152,14 @@
             this.listBox1.FormattingEnabled = true;
             this.listBox1.ItemHeight = 12;
             this.listBox1.Items.AddRange(new object[] {
+            "custom",
             "GoHANmem_v1.00",
-            "zCheat_v1.00",
-            "custom"});
+            "zCheat_v1.00"});
             this.listBox1.Location = new System.Drawing.Point(84, 13);
             this.listBox1.Name = "listBox1";
             this.listBox1.Size = new System.Drawing.Size(186, 16);
             this.listBox1.TabIndex = 14;
+            this.listBox1.SelectedIndexChanged += new System.EventHandler(this.listBox1_SelectedIndexChanged_1);
             this.listBox1.SelectedValueChanged += new System.EventHandler(this.listBox1_SelectedIndexChanged);
             // 
             // Form1

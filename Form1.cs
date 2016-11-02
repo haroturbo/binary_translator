@@ -79,7 +79,7 @@ namespace WindowsFormsApplication1
             byte[] bbs = new byte[bfs.Length];
             bfs.Read(bbs, 0, bbs.Length);
             bfs.Close();
-            string[] bt = new string[100];
+            string[] bt = new string[500];
             int t = 0;
             for (int i = 0; i < bbs.Length; i++)
             {
@@ -103,7 +103,7 @@ namespace WindowsFormsApplication1
             byte[] abs = new byte[afs.Length];
             afs.Read(abs, 0, abs.Length);
             afs.Close();
-            string[] at = new string[100];
+            string[] at = new string[500];
             int tt = 0;
             for (int i = 0; i < abs.Length; i++)
             {
@@ -194,6 +194,11 @@ namespace WindowsFormsApplication1
             else {
                 MessageBox.Show(file + "設定用が存在しません");
             }
+
+        }
+
+        private void listBox1_SelectedIndexChanged_1(object sender, EventArgs e)
+        {
 
         }
     }
